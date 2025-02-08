@@ -1,4 +1,4 @@
-[![Biconomy](https://img.shields.io/badge/Made_with_%F0%9F%8D%8A_by-Biconomy-ff4e17?style=flat)](https://biconomy.io) [![License MIT](https://img.shields.io/badge/License-MIT-blue?&style=flat)](./LICENSE) [![codecov](https://codecov.io/github/bcnmy/abstractjs/graph/badge.svg?token=DTdIR5aBDA)](https://codecov.io/github/bcnmy/abstractjs)[![install size](https://packagephobia.com/badge?p=@biconomy/abstractjs)](https://packagephobia.com/result?p=@biconomy/abstractjs)
+[![Biconomy](https://img.shields.io/badge/Made_with_%F0%9F%8D%8A_by-Biconomy-ff4e17?style=flat)](https://biconomy.io) [![License MIT](https://img.shields.io/badge/License-MIT-blue?&style=flat)](./LICENSE) [![codecov](https://codecov.io/github/bcnmy/abstractjs/graph/badge.svg?token=DTdIR5aBDA)](https://codecov.io/github/bcnmy/abstractjs) [![install size](https://packagephobia.com/badge?p=@biconomy/abstractjs)](https://packagephobia.com/result?p=@biconomy/abstractjs)
 
 # abstractjs 🚀
 
@@ -8,18 +8,18 @@ The Biconomy SDK is your all-in-one toolkit for building decentralized applicati
 
 ## 📚 Table of Contents
 
-- [SDK 🚀](#sdk-)
+- [🚀SDK](#-sdk)
 
-  - [📚 Table of Contents](#-table-of-contents)
-  - [🛠️ Quickstart](#-quickstart)
+  - [📚Table of Contents](#-table-of-contents)
+  - [🛠️Quickstart](#-quickstart)
 
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 
-  - [📄 Documentation and Resources](#-documentation-and-resources)
-  - [💼 Examples](#-examples)
+  - [📄Documentation and Resources](#-documentation-and-resources)
+  - [💼Examples](#-examples)
   - [License](#license)
-  - [Connect with Biconomy 🍊](#connect-with-biconomy-🍊)
+  - [🍊Connect with Biconomy](#-connect-with-biconomy)
 
 ## 🛠️ Quickstart
 
