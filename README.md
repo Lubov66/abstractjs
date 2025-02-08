@@ -91,7 +91,7 @@ bun run test -t=mee
 
 For detailed information about the testing framework, network configurations, and debugging guidelines, please refer to our [Testing Documentation](./src/test/README.md).
 
-## Documentation and Resources
+## 📄 Documentation and Resources
 
 For a comprehensive understanding of our project and to contribute effectively, please refer to the following resources:
 
